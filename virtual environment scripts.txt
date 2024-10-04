@@ -1,0 +1,21 @@
+ვირტუალური ენვაირონმენთის შექმნა - python -m venv <name>
+ვირტუალური ენვაირონმენთის შექმნა MacOS/Linux - python3 -m venv <name>
+
+ვირტუალური ენვაირონმენთის გააქტიურება bash terminal - source venv/Scripts/activate
+ვირტუალური ენვაირონმენთის გააქტიურება powershell - .\venv\Scripts\activate
+ვირტუალური ენვაირონმენთის გააქტიურება MacOS/Linux - source venv/bin/activate
+
+ვირტუალური ენვაირონმენთის დეაქტივაცია - deactivate
+
+pip-ით მოდულის ინსტალაცია - pip install <name>
+pip-ით მოდულის ინსტალაცია MacOS/Linux - pip3 install <name>
+
+pip-ით მოდულის დეინსტალაცია - pip uninstall <name>
+pip-ით მოდულის დეინსტალაცია MacOS/Linux - pip3 uninstall <name>
+
+requirements.txt შექმნა - pip freeze > requirements.txt ან pip list > requirements.txt
+requirements.txt შექმნა MacOS/Linux - pip3 freeze > requirements.txt ან pip3 list > requirements.txt
+
+
+requirements.txt ინსტალაცია - pip install -r requirements.txt
+requirements.txt ინსტალაცია MacOS/Linux - pip3 install -r requirements.txt
