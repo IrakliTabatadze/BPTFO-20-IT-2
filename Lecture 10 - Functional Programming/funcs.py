@@ -36,8 +36,14 @@
 #     print(func())
 
 
-# lst = [(lambda arg: arg * 10)(x) for x in range(10)]
-# print(lst)
+lst = [(lambda arg: arg * 10)(x) for x in range(10)]
+print(lst)
+
+empty_lst = []
+for x in range(10):
+    empty_lst.append((lambda arg: arg * 10)(x))
+
+print(empty_lst)
 
 
 ###############################################
