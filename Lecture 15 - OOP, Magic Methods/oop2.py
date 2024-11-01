@@ -135,8 +135,9 @@ from multipledispatch import dispatch
 
 
 class Calculator:
+    @staticmethod
     @dispatch(int, int)
-    def add(self, x, y):
+    def add(x, y):
         result = x + y
         return f'The sum of integer numbers {x} and {y} is: {result}'
 
