@@ -1,0 +1,210 @@
+{
+    "electronics": {
+        "laptops": {
+            "1001": {
+                "brand": "Apple",
+                "price": 2500,
+                "quantity": 1
+            },
+            "1002": {
+                "brand": "HP",
+                "price": 1500,
+                "quantity": 10
+            }
+        },
+        "phones": {
+            "2001": {
+                "brand": "Apple",
+                "price": 2000,
+                "quantity": 15
+            },
+            "2002": {
+                "brand": "Samsung",
+                "price": 2000,
+                "quantity": 10
+            }
+        }
+    },
+    "clothes": {
+        "shirts": {
+            "3001": {
+                "brand": "Nike",
+                "price": 500,
+                "quantity": 1
+            },
+            "3002": {
+                "brand": "Adidas",
+                "price": 500,
+                "quantity": 10
+            }
+        },
+        "pants": {
+            "4001": {
+                "brand": "Levis",
+                "price": 500,
+                "quantity": 50
+            },
+            "4002": {
+                "brand": "Lee",
+                "price": 500,
+                "quantity": 50
+            }
+        }
+    },
+    "electronics3": {
+        "laptops": {
+            "1001": {
+                "brand": "Apple",
+                "price": 2500,
+                "quantity": 1
+            },
+            "1002": {
+                "brand": "HP",
+                "price": 1500,
+                "quantity": 10
+            }
+        },
+        "phones": {
+            "2001": {
+                "brand": "Apple",
+                "price": 2000,
+                "quantity": 15
+            },
+            "2002": {
+                "brand": "Samsung",
+                "price": 2000,
+                "quantity": 10
+            }
+        }
+    },
+    "clothes3": {
+        "shirts": {
+            "3001": {
+                "brand": "Nike",
+                "price": 500,
+                "quantity": 1
+            },
+            "3002": {
+                "brand": "Adidas",
+                "price": 500,
+                "quantity": 10
+            }
+        },
+        "pants": {
+            "4001": {
+                "brand": "Levis",
+                "price": 500,
+                "quantity": 50
+            },
+            "4002": {
+                "brand": "Lee",
+                "price": 500,
+                "quantity": 50
+            }
+        }
+    },
+    "electronics2": {
+        "laptops": {
+            "1001": {
+                "brand": "Apple",
+                "price": 2500,
+                "quantity": 1
+            },
+            "1002": {
+                "brand": "HP",
+                "price": 1500,
+                "quantity": 10
+            }
+        },
+        "phones": {
+            "2001": {
+                "brand": "Apple",
+                "price": 2000,
+                "quantity": 15
+            },
+            "2002": {
+                "brand": "Samsung",
+                "price": 2000,
+                "quantity": 10
+            }
+        }
+    },
+    "clothes2": {
+        "shirts": {
+            "3001": {
+                "brand": "Nike",
+                "price": 500,
+                "quantity": 1
+            },
+            "3002": {
+                "brand": "Adidas",
+                "price": 500,
+                "quantity": 10
+            }
+        },
+        "pants": {
+            "4001": {
+                "brand": "Levis",
+                "price": 500,
+                "quantity": 50
+            },
+            "4002": {
+                "brand": "Lee",
+                "price": 500,
+                "quantity": 50
+            }
+        }
+    },
+    "electronics1": {
+        "laptops": {
+            "1001": {
+                "brand": "Apple",
+                "price": 2500,
+                "quantity": 1
+            },
+            "1002": {
+                "brand": "HP",
+                "price": 1500,
+                "quantity": 10
+            }
+        },
+        "phones": {
+            "2001": {
+                "brand": "Apple",
+                "price": 2000,
+                "quantity": 15
+            },
+            "2002": {
+                "brand": "Samsung",
+                "price": 2000,
+                "quantity": 10
+            }
+        }
+    },
+    "clothes1": {
+        "shirts": {
+            "3001": {
+                "brand": "Nike",
+                "price": 500,
+                "quantity": 1
+            },
+            "3002": {
+                "brand": "Adidas",
+                "price": 500,
+                "quantity": 10
+            }
+        },
+        "pants": {
+            "4001": {
+                "brand": "Levis",
+                "price": 500,
+                "quantity": 50
+            },
+            "4002": {
+                "brand": "Lee",
+                "price": 500,
+                "quantity": 50
+            }
+        }
+    }
+}
